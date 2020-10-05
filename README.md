@@ -31,7 +31,7 @@ I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
       </td>
       <td width="33%" align="center">
         <span>TailwindCSS</span><br><br><br>
-        <img height="64px" src="https://files.innaweb.com/tailwindcss.svg">
+        <img height="64px" src="https://files.jamaluddinrumi.id/tailwindcss.svg">
       </td>
     </tr>
   </tbody>

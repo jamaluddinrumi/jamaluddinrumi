@@ -1,4 +1,4 @@
-# Hello, I'm Jamal 👋 😊
+# Hello, I'm Jamal 👋 
 
 I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
 

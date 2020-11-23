@@ -43,6 +43,3 @@ I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jamaluddinrumi&show_icons=true&hide_border=true)
 
-# 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
-- Explore the new version 3 of VueJS 
-- Explore tailwindcss 

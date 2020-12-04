@@ -34,6 +34,20 @@ I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
         <img height="64px" src="https://files.jamaluddinrumi.id/tailwindcss.svg">
       </td>
     </tr>
+        <tr valign="top">
+      <td width="33%" align="center">
+        <span>Inertia.js</span><br><br><br>
+        <img height="64px" src="https://files.jamaluddinrumi.id/inertiajs.svg">
+      </td>
+      <td width="33%" align="center">
+        <span>Axios</span><br><br><br>
+        <img height="64px" src="">
+      </td>
+      <td width="33%" align="center">
+        <span>Vuetify</span><br><br><br>
+        <img height="64px" src="https://files.jamaluddinrumi.id/vuetify-logo-light-atom.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 

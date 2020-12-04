@@ -37,7 +37,7 @@ I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
         <tr valign="top">
       <td width="33%" align="center">
         <span>Inertia.js</span><br><br><br>
-        <img height="64px" src="https://files.jamaluddinrumi.id/inertiajs.svg">
+        <img height="64px" src="https://files.jamaluddinrumi.id/inertiajs.png">
       </td>
       <td width="33%" align="center">
         <span>Axios</span><br><br><br>

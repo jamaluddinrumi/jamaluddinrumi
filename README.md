@@ -1,6 +1,6 @@
 # Hi, I'm Jamal 👋 
 
-I'm a **Front End Web Developer** at [Algostudio](https://algostudio.net)
+I'm a **Front End Web Developer** previously at [Algostudio](https://algostudio.net)
 
 ## Tech Stack I Use
 

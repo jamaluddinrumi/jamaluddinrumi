@@ -4,11 +4,11 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>NuxtJS</span><br><br><br>
+        <span>Nuxt</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>VueJS</span><br><br><br>
+        <span>Vue</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="25%" align="center">
@@ -16,7 +16,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg">
       </td>
       <td width="25%" align="center">
-        <span>TailwindCSS</span><br><br><br>
+        <span>Tailwind</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>

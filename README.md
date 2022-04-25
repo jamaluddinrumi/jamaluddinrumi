@@ -3,15 +3,11 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="33.33%" align="center">
+      <td width="50%" align="center">
         <span>Nuxt</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">
       </td>
-      <td width="33.33%" align="center">
-        <span>Vue</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="33.33%" align="center">
+      <td width="50%" align="center">
         <span>Tailwind</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>

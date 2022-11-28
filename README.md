@@ -22,24 +22,3 @@
   </tbody>
 </table>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/headlessui-icon.svg">
-        <br>
-        <span>HeadlessUI</span>
-      </td>
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/vueuse.svg">
-        <br>
-        <span>VueUse</span>
-      </td>
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/svg.svg">
-        <br>
-        <span>SVG</span>
-      </td>
-    </tr>
-  </tbody>
-</table>

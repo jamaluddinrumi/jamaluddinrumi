@@ -27,34 +27,34 @@
       <td width="33%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/astro-icon.svg" />
         <br />
-        <span>Astro</span>
+        <a href="https://astro.build"><span>Astro</span></a>
       </td>
       <td width="33%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
         <br />
-        <span>Tailwind</span>
+                <a href="https://tailwindcss.com/"><span>Tailwind</span></a>
       </td>
       <td width="33%" align="center">
         <img height="64px" src="https://www.svgrepo.com/show/79473/sunflower.svg" />
         <br />
-        <span>Daisy</span>
+        <a href="https://daisyui.com/"><span>Daisy</span></a>
       </td>
     </tr>
     <tr valign="top">
       <td width="33%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg" />
         <br />
-        <span>Vite</span>
+        <a href="https://vitejs.dev/"><span>Vite</span></a>
       </td>
       <td width="33%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/rollupjs.svg" />
         <br />
-        <span>Rollup</span>
+        <a href="https://rollupjs.org/"><span>Rollup</span></a>
       </td>
       <td width="33%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/solidjs-icon.svg" />
         <br />
-        <span>Solid</span>
+        <a href="https://www.solidjs.com/"><span>Solid</span></a>
       </td>
     </tr>
   </tbody>

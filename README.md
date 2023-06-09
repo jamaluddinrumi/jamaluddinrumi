@@ -1,7 +1,7 @@
 👨🏻‍🎓 graduated as 
 - [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) from University of Mercu Buana Yogyakarta
 
-📄 completed IT certifications
+📄 completed some IT certifications
 - Front-End Web Learning Path 
   - [Front-End Web Development Expert](https://www.dicoding.com/certificates/MEPJVN0G4P3V) 
   - [Building Progressive Web Apps](https://www.dicoding.com/certificates/GRX5G2N5YX0M) 
@@ -64,4 +64,4 @@
 - [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (founder)
 
 📩 welcome to reach me at 
-- [jamal.rumi@icloud.com](mailto:jamal.rumi@icloud.com)
+- [jamal@indomascot.com](mailto:jamal@indomascot.com)

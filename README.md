@@ -14,7 +14,7 @@
 
 
 
-❤️ build apps which has following criterias
+❤️ building business apps which has following criterias
 - 👨‍👩‍👧‍👧 useful
 - ⚡️ performant
 - 📱 easy to use
@@ -60,7 +60,7 @@
   </tbody>
 </table>
 
-💼 currently i'm working at 
+💼 currently working at 
 - [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (founder)
 
 📩 welcome to reach me at 

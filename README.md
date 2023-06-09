@@ -2,17 +2,16 @@
 - [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) from University of Mercu Buana Yogyakarta
 
 📄 completed some IT certifications
-- Front-End Web Learning Path 
+- [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22)
   - [Front-End Web Development Expert](https://www.dicoding.com/certificates/MEPJVN0G4P3V) 
   - [Building Progressive Web Apps](https://www.dicoding.com/certificates/GRX5G2N5YX0M) 
-  - [Learning Fundamental of Front-End Web Development](https://www.dicoding.com/certificates/OQLZ9LWLDP5D) 
-  - [Learning Basic of Javascript Programming](https://www.dicoding.com/certificates/2VX31QMVNZYQ) 
-  - [Learning Basic of Web Programming](https://www.dicoding.com/certificates/QEYX4588OZDL) 
-- AWS Learning Path 
-  - [Learning Basic of Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
+  - [Learning Fundamental Front-End Web Development](https://www.dicoding.com/certificates/OQLZ9LWLDP5D) 
+  - [Learning Basic Javascript Programming](https://www.dicoding.com/certificates/2VX31QMVNZYQ) 
+  - [Learning Basic Web Programming](https://www.dicoding.com/certificates/QEYX4588OZDL) 
+- [Machine Learning Path](https://www.dicoding.com/learningpaths/30)
+  - [Learning Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
+- AWS Cloud Learning Path 
   - [Cloud Practitional Essentials](https://www.dicoding.com/certificates/07Z6L78MMPQR) 
-
-
 
 ❤️ building business apps which has following criterias
 - 👨‍👩‍👧‍👧 useful

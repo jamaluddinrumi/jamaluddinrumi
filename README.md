@@ -1,9 +1,10 @@
+
 ❤️ build apps which
 - 👨‍👩‍👧‍👧 useful
 - ⚡️ performant
 - 📱 easy to use
 
-tech stack i choose
+👨🏻‍💻 tech stack i choose
 
 <table>
   <tbody>
@@ -43,3 +44,6 @@ tech stack i choose
     </tr>
   </tbody>
 </table>
+
+💼 currently i'm working at 
+- [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (founder)

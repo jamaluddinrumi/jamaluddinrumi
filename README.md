@@ -21,7 +21,7 @@ tech stack i choose
       <td width="33%" align="center">
         <img height="64px" src="https://www.svgrepo.com/show/79473/sunflower.svg" />
         <br />
-        <span>Daisy UI</span>
+        <span>Daisy</span>
       </td>
     </tr>
     <tr valign="top">

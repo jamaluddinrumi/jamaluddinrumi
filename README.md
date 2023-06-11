@@ -34,7 +34,7 @@
 
 | &nbsp;| &nbsp;   | &nbsp;|
 |:-----:|:--------:|:-----:| 
-| <img height="16px" src="https://cdn.svgporn.com/logos/astro-icon.svg" /> <br /> [Astro](https://astro.build)| <img height="16px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/vitejs.svg" /> <br /> [Daisy](https://daisyui.com/) |
+| <img height="16px" src="https://cdn.svgporn.com/logos/astro-icon.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) |
 | <img height="16px" src="https://cdn.svgporn.com/logos/vitejs.svg" /> <br /> [Vite](https://vitejs.dev/) | <img height="16px" src="https://cdn.svgporn.com/logos/rollupjs.svg" /> <br /> [Rollup](https://rollupjs.org/) | <img height="16px" src="https://cdn.svgporn.com/logos/solidjs-icon.svg" /> <br /> [Solid](https://www.solidjs.com/) |
 
 💼 currently working at 

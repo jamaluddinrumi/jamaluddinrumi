@@ -24,7 +24,7 @@
 |--|--|
 | [Katalog Restoran (PWA)](https://katalog-restoran-pwa.pages.dev/) | [submission](https://github.com/jamaluddinrumi/jamaluddinrumi/submission) |
 | [iRecipe (PWA)](https://irecipe.jamal.indomascot.com/) | [irecipe](https://github.com/jamaluddinrumi/jamaluddinrumi/irecipe) |
-| [Rak Buku (PWA)](https://rakbuku.pages.dev/) | 
+| [Rak Buku (PWA)](https://rakbuku.pages.dev/) | |
 | [Cek Biaya Balik Nama STNK](https://baliknama.pages.dev/) | [baliknama](https://github.com/jamaluddinrumi/jamaluddinrumi/submission) |
 | [iChampions (PWA)](https://ichampions.pages.dev/) | [ichampions](https://github.com/jamaluddinrumi/jamaluddinrumi/ichampions) |
 | iNutritions (SPA) | [inutritions](https://github.com/jamaluddinrumi/jamaluddinrumi/inutritions) |

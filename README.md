@@ -1,3 +1,4 @@
+
 👨🏻‍🎓 graduated as 
 - [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) from University of Mercu Buana Yogyakarta
 
@@ -14,9 +15,19 @@
   - [Cloud Practitional Essentials](https://www.dicoding.com/certificates/07Z6L78MMPQR) 
 
 ❤️ building business apps which has following criterias
-- 👨‍👩‍👧‍👧 useful
+- 👨‍👩‍👧 useful
 - ⚡️ performant
 - 📱 easy to use
+
+✍️ some of my portfolios 
+| Preview | Repo |
+|--|--|
+| [Katalog Restoran (PWA)](https://katalog-restoran-pwa.pages.dev/) | [submission](https://github.com/jamaluddinrumi/jamaluddinrumi/submission) |
+| [iRecipe (PWA)](https://irecipe.jamal.indomascot.com/) | [irecipe](https://github.com/jamaluddinrumi/jamaluddinrumi/irecipe)
+| [Rak Buku (PWA)](https://rakbuku.pages.dev/) | 
+| [Cek Biaya Balik Nama STNK](https://baliknama.pages.dev/) | [baliknama](https://github.com/jamaluddinrumi/jamaluddinrumi/submission)
+| [iChampions (PWA)](https://ichampions.pages.dev/) | [ichampions](https://github.com/jamaluddinrumi/jamaluddinrumi/ichampions)
+| iNutritions (SPA) | [inutritions](https://github.com/jamaluddinrumi/jamaluddinrumi/inutritions)
 
 👨🏻‍💻 tech stack i choose
 
@@ -31,7 +42,7 @@
       <td width="33%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
         <br />
-                <a href="https://tailwindcss.com/"><span>Tailwind</span></a>
+        <a href="https://tailwindcss.com/"><span>Tailwind</span></a>
       </td>
       <td width="33%" align="center">
         <img height="64px" src="https://www.svgrepo.com/show/79473/sunflower.svg" />

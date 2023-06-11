@@ -32,44 +32,10 @@
 
 👨🏻‍💻 tech stack i choose
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/astro-icon.svg" />
-        <br />
-        <a href="https://astro.build"><span>Astro</span></a>
-      </td>
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
-        <br />
-        <a href="https://tailwindcss.com/"><span>Tailwind</span></a>
-      </td>
-      <td width="33%" align="center">
-        <img height="64px" src="https://www.svgrepo.com/show/79473/sunflower.svg" />
-        <br />
-        <a href="https://daisyui.com/"><span>Daisy</span></a>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg" />
-        <br />
-        <a href="https://vitejs.dev/"><span>Vite</span></a>
-      </td>
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/rollupjs.svg" />
-        <br />
-        <a href="https://rollupjs.org/"><span>Rollup</span></a>
-      </td>
-      <td width="33%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/solidjs-icon.svg" />
-        <br />
-        <a href="https://www.solidjs.com/"><span>Solid</span></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| &nbsp;| &nbsp;   | &nbsp;|
+|:-----:|:--------:|:-----:| 
+| <img height="16px" src="https://cdn.svgporn.com/logos/astro-icon.svg" /> <br /> [Astro](https://astro.build)| <img height="16px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/vitejs.svg" /> <br /> [Daisy](https://daisyui.com/) |
+| <img height="16px" src="https://cdn.svgporn.com/logos/vitejs.svg" /> <br /> [Vite](https://vitejs.dev/) | <img height="16px" src="https://cdn.svgporn.com/logos/rollupjs.svg" /> <br /> [Rollup](https://rollupjs.org/) | <img height="16px" src="https://cdn.svgporn.com/logos/solidjs-icon.svg" /> <br /> [Solid](https://www.solidjs.com/) |
 
 💼 currently working at 
 - [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (founder)

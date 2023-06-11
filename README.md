@@ -63,4 +63,5 @@
 - [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (founder)
 
 📩 welcome to reach me at 
-- [jamal@indomascot.com](mailto:jamal@indomascot.com)
+- [email](mailto:jamal@indomascot.com)
+- [linkedin](https://www.linkedin.com/in/jamaluddinrumi/?utm_source=github)

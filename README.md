@@ -35,7 +35,12 @@
 | &nbsp;| &nbsp;   | &nbsp;|
 |:-----:|:--------:|:-----:| 
 | <img height="16px" src="https://cdn.svgporn.com/logos/astro-icon.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) |
-| <img height="16px" src="https://cdn.svgporn.com/logos/vitejs.svg" /> <br /> [Vite](https://vitejs.dev/) | <img height="16px" src="https://cdn.svgporn.com/logos/rollupjs.svg" /> <br /> [Rollup](https://rollupjs.org/) | <img height="16px" src="https://cdn.svgporn.com/logos/solidjs-icon.svg" /> <br /> [Solid](https://www.solidjs.com/) |
+
+☁️ tech providers i choose
+
+| &nbsp;| &nbsp;   |
+|:-----:|:--------:|
+| <img height="16px" src="https://cdn.svgporn.com/logos/cloudflare.svg" /> <br /> [Cloudflare](https://www.cloudflare.com) | <img height="16px" src="https://cdn.svgporn.com/logos/storyblok-icon.svg" /> <br /> [Storyblok](https://www.storyblok.com) |
 
 💼 currently working at 
 - [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (founder)

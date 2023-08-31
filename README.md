@@ -8,7 +8,7 @@
   - [Building Progressive Web Apps](https://www.dicoding.com/certificates/GRX5G2N5YX0M) 
   - [Learning Fundamental Front-End Web Development](https://www.dicoding.com/certificates/OQLZ9LWLDP5D) 
   - [Learning Basic Javascript Programming](https://www.dicoding.com/certificates/2VX31QMVNZYQ) 
-  - [Learning Basic Web Programming](https://www.dicoding.com/certificates/QEYX4588OZDL) 
+  - [Learning Basic Web Programming](https://www.dicoding.com/certificates/GRX52N37RX0M) 
 - [Machine Learning Path](https://www.dicoding.com/learningpaths/30)
   - [Learning Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
 - AWS Cloud Learning Path 

@@ -23,11 +23,11 @@
 
 | Preview | Repo |
 |--|--|
-| [Katalog Restoran (PWA)](https://katalog-restoran-pwa.pages.dev/) | [submission](https://github.com/jamaluddinrumi/jamaluddinrumi/submission) |
+| [Katalog Restoran (PWA)](https://katalog-restoran-pwa.jamal.indomascot.com/) | [submission](https://github.com/jamaluddinrumi/jamaluddinrumi/submission) |
 | [iRecipe (PWA)](https://irecipe.jamal.indomascot.com/) | [irecipe](https://github.com/jamaluddinrumi/jamaluddinrumi/irecipe) |
-| [Rak Buku (PWA)](https://rakbuku.pages.dev/) | |
-| [Cek Biaya Balik Nama STNK](https://baliknama.pages.dev/) | [baliknama](https://github.com/jamaluddinrumi/jamaluddinrumi/submission) |
-| [iChampions (PWA)](https://ichampions.pages.dev/) | [ichampions](https://github.com/jamaluddinrumi/jamaluddinrumi/ichampions) |
+| [Rak Buku (PWA)](https://rakbuku.jamal.indomascot.com/) | |
+| [Cek Biaya Balik Nama STNK](https://baliknama.jamal.indomascot.com/) | [baliknama](https://github.com/jamaluddinrumi/jamaluddinrumi/baliknama) |
+| [iChampions (PWA)](https://ichampions.jamal.indomascot.com/) | [ichampions](https://github.com/jamaluddinrumi/jamaluddinrumi/ichampions) |
 | iNutritions (SPA) | [inutritions](https://github.com/jamaluddinrumi/jamaluddinrumi/inutritions) |
 
 👨🏻‍💻 tech stack i choose

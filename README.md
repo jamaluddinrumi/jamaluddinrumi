@@ -43,7 +43,7 @@
 | <img height="16px" src="https://cdn.svgporn.com/logos/cloudflare.svg" /> <br /> [Cloudflare](https://www.cloudflare.com) | <img height="16px" src="https://cdn.svgporn.com/logos/storyblok-icon.svg" /> <br /> [Storyblok](https://www.storyblok.com) |
 
 💼 currently working at 
-- [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (founder)
+- [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) (owner)
 
 📩 welcome to reach me at 
 - [email](mailto:jamal@indomascot.com)

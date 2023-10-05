@@ -47,4 +47,3 @@
 
 📩 welcome to reach me at 
 - [email](mailto:jamal@indomascot.com)
-- [linkedin](https://www.linkedin.com/in/jamaluddinrumi/?utm_source=github)

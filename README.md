@@ -19,7 +19,7 @@
 - ⚡️ performant
 - 📱 easy to use
 
-✍️ projects i've submitted for my certification submissions
+✍️ projects i've submitted for my certification final submissions
 
 | Preview | Repo |
 |--|--|

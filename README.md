@@ -19,7 +19,7 @@
 - ⚡️ performant
 - 📱 easy to use
 
-✍️ some of my portfolios 
+✍️ some of my portfolios i've submitted for certification submissions
 
 | Preview | Repo |
 |--|--|

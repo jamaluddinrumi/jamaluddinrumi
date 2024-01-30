@@ -3,7 +3,7 @@
 - [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) from University of Mercu Buana Yogyakarta
 
 📄 completed some IT certifications
-- [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22) ✅ passed all steps 1 to 6
+- [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22) ✅ passed all steps from start to the end
   - [Front-End Web Development Expert](https://www.dicoding.com/certificates/MEPJVN0G4P3V) 
   - [Building Progressive Web Apps](https://www.dicoding.com/certificates/GRX5G2N5YX0M) 
   - [Learning Fundamental Front-End Web Development](https://www.dicoding.com/certificates/OQLZ9LWLDP5D) 

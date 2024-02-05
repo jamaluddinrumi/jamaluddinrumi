@@ -1,3 +1,4 @@
+😌 more convenience known as JavaScript Developer
 
 👨🏻‍🎓 graduated as 
 - [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) from University of Mercu Buana Yogyakarta
@@ -12,7 +13,7 @@
 - [Back-End Learning Path](https://www.dicoding.com/learningpaths/41) 
   - 📄 [Cloud Practitional Essentials](https://www.dicoding.com/certificates/07Z6L78MMPQR) 
 - [Machine Learning Path](https://www.dicoding.com/learningpaths/30) 
-  - 📄 [Learning Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV) 
+  - 📄 [Learning Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
 
 ❤️ building business apps which has following criterias
 - 👨‍👩‍👧 useful

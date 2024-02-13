@@ -14,6 +14,7 @@
   - 📄 [Cloud Practitional Essentials](https://www.dicoding.com/certificates/07Z6L78MMPQR) 
 - [Machine Learning Path](https://www.dicoding.com/learningpaths/30) 
   - 📄 [Learning Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
+  - 📄 [Start Programming in Python](https://www.dicoding.com/certificates/GRX5QWQJVZ0M)
 
 ❤️ building business apps which has following criterias
 - 👨‍👩‍👧 useful

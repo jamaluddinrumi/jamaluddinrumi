@@ -6,14 +6,14 @@
 🧑‍💻 completed some IT certifications
 - [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22) ✅ passed all steps from the start till the end
   - 📄 [Front-End Web Development Expert](https://www.dicoding.com/certificates/MEPJVN0G4P3V) 
-  - 📄 [Building Progressive Web Apps](https://www.dicoding.com/certificates/GRX5G2N5YX0M) 
-  - 📄 [Learning Fundamental Front-End Web Development](https://www.dicoding.com/certificates/OQLZ9LWLDP5D) 
-  - 📄 [Learning Basic Javascript Programming](https://www.dicoding.com/certificates/2VX31QMVNZYQ) 
-  - 📄 [Learning Basic Web Programming](https://www.dicoding.com/certificates/GRX52N37RX0M) 
+  - 📄 [Build Progressive Web Apps](https://www.dicoding.com/certificates/GRX5G2N5YX0M) 
+  - 📄 [Learn Fundamental Front-End Web Development](https://www.dicoding.com/certificates/OQLZ9LWLDP5D) 
+  - 📄 [Learn Basic Javascript Programming](https://www.dicoding.com/certificates/2VX31QMVNZYQ) 
+  - 📄 [Learn Basic Web Programming](https://www.dicoding.com/certificates/GRX52N37RX0M) 
 - [Back-End Learning Path](https://www.dicoding.com/learningpaths/41) 
   - 📄 [Cloud Practitional Essentials](https://www.dicoding.com/certificates/07Z6L78MMPQR) 
 - [Machine Learning Path](https://www.dicoding.com/learningpaths/30) 
-  - 📄 [Learning Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
+  - 📄 [Learn Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
   - 📄 [Start Programming in Python](https://www.dicoding.com/certificates/GRX5QWQJVZ0M)
 
 ❤️ building business apps which has following criterias

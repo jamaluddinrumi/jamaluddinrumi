@@ -15,6 +15,7 @@
 - [Machine Learning Path](https://www.dicoding.com/learningpaths/30) 
   - 📄 [Learn Basic Data Visualization](https://www.dicoding.com/certificates/ERZRGEYRQPYV)
   - 📄 [Start Programming in Python](https://www.dicoding.com/certificates/GRX5QWQJVZ0M)
+  - 📄 [Learn ML (Machine Learning) for Beginners](https://www.dicoding.com/certificates/6RPNVJKE4Z2M) 
 
 ❤️ building business apps which has following criterias
 - 👨‍👩‍👧 useful

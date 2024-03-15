@@ -1,4 +1,4 @@
-😌 more convenience be known as JavaScript Developer
+😌 more convenience be known as <img height="16px" src="https://api.iconify.design/skill-icons:javascript.svg">  JavaScript Developer
 
 👨🏻‍🎓 graduated as 
 - [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) from University of Mercu Buana Yogyakarta

@@ -37,13 +37,13 @@
 
 | &nbsp;| &nbsp;   | &nbsp;|
 |:-----:|:--------:|:-----:| 
-| <img height="16px" src="https://cdn.svgporn.com/logos/astro-icon.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) |
+| <img height="16px" src="https://api.iconify.design/skill-icons:astro.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) |
 
 ☁️ tech providers i choose
 
 | &nbsp;| &nbsp;   |
 |:-----:|:--------:|
-| <img height="16px" src="https://cdn.svgporn.com/logos/cloudflare.svg" /> <br /> [Cloudflare](https://www.cloudflare.com) | <img height="16px" src="https://cdn.svgporn.com/logos/storyblok-icon.svg" /> <br /> [Storyblok](https://www.storyblok.com) |
+| <img height="16px" src="https://api.iconify.design/devicon:cloudflare.svg" /> <br /> [Cloudflare](https://www.cloudflare.com) | <img height="16px" src="https://cdn.svgporn.com/logos/storyblok-icon.svg" /> <br /> [Storyblok](https://www.storyblok.com) |
 
 💼 currently working at 
 - [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) / [www.indomascot.com](https://www.indomascot.com?utm_source=github) (owner)

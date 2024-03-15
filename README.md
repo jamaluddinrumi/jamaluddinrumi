@@ -1,7 +1,6 @@
 😌 more convenience be known as <img height="16px" src="https://api.iconify.design/skill-icons:javascript.svg">  JavaScript Developer
 
-👨🏻‍🎓 graduated as 
-- [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) from University of Mercu Buana Yogyakarta
+👨🏻‍🎓 graduated as [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) at 2019 from University of Mercu Buana Yogyakarta
 
 🧑‍💻 been completed some IT certifications
 - [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22) ✅ passed all steps from the start till the end

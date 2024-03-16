@@ -2,9 +2,9 @@
 
 👨🏻‍🎓 graduated as [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) at 2019 from University of Mercu Buana Yogyakarta
 
-🧑‍💻 been completed some IT certifications
-- [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22) ✅ passed all steps from the start till the end
-  - 📄 [Front-End Web Development Expert](https://www.dicoding.com/certificates/MEPJVN0G4P3V) 
+🧑‍💻 have been completed some IT certifications
+- [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22) 🎓 *passed all the steps from start to the end*
+  - 📄 [Front-End Web Development Expert](https://www.dicoding.com/certificates/MEPJVN0G4P3V)
   - 📄 [Build Progressive Web Apps](https://www.dicoding.com/certificates/GRX5G2N5YX0M) 
   - 📄 [Learn Fundamental Front-End Web Development](https://www.dicoding.com/certificates/OQLZ9LWLDP5D) 
   - 📄 [Learn Basic Javascript Programming](https://www.dicoding.com/certificates/2VX31QMVNZYQ) 
@@ -34,9 +34,23 @@
 
 👨🏻‍💻 tech stack i choose
 
+static website
+
 | &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
 |:-----:|:--------:|:-----:| :-----:| 
-| <img height="16px" src="https://api.iconify.design/skill-icons:astro.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) | <img height="16px" src="https://unjs.io/favicon.svg" /> <br /> [UnJS](https://unjs.io/) |
+| <img height="16px" src="https://api.iconify.design/skill-icons:astro.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://unjs.io/favicon.svg" /> <br /> [UnJS](https://unjs.io/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) | 
+
+web application
+
+| &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
+|:-----:|:--------:|:-----:| :-----:| 
+| <img height="16px" src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg" /> <br /> [Nuxt](https://nuxt.com) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com) |<img height="16px" src="https://unjs.io/favicon.svg" /> <br /> [UnJS](https://unjs.io/) | <img height="16px" src="https://api.iconify.design/skill-icons:vuetify-dark.svg" /> <br /> [Vuetify](https://vuetifyjs.com) | 
+
+api server
+
+| &nbsp;| &nbsp;   |
+|:-----:|:--------:|
+| <img height="16px" src="https://nitro.unjs.io/icon.svg" /> <br /> [Nitro](https://nitro.unjs.io) | <img height="16px" src="https://unjs.io/favicon.svg" /> <br /> [UnJS](https://unjs.io/) |
 
 ☁️ tech providers i choose
 

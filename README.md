@@ -60,5 +60,4 @@ api server
 
 💼 currently working at [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) / [www.indomascot.com](https://www.indomascot.com?utm_source=github) as owner
 
-📩 welcome to reach me at 
-- [email](mailto:jamal@indomascot.com)
+📩 welcome to reach me via <img height="16px" src="https://api.iconify.design/fa6-brands:square-x-twitter.svg" /> [email](mailto:jamal@indomascot.com) or <img height="16px" src="https://api.iconify.design/fa6-brands:square-x-twitter.svg" /> [x](https://twitter.com/ropangkrimbat)

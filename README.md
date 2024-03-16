@@ -58,8 +58,7 @@ api server
 |:-----:|:--------:|
 | <img height="16px" src="https://api.iconify.design/devicon:cloudflare.svg" /> <br /> [Cloudflare](https://www.cloudflare.com) | <img height="16px" src="https://cdn.svgporn.com/logos/storyblok-icon.svg" /> <br /> [Storyblok](https://www.storyblok.com) |
 
-💼 currently working at 
-- [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) / [www.indomascot.com](https://www.indomascot.com?utm_source=github) (owner)
+💼 currently working at [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) / [www.indomascot.com](https://www.indomascot.com?utm_source=github) as owner
 
 📩 welcome to reach me at 
 - [email](mailto:jamal@indomascot.com)

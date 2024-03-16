@@ -34,9 +34,9 @@
 
 👨🏻‍💻 tech stack i choose
 
-| &nbsp;| &nbsp;   | &nbsp;|
-|:-----:|:--------:|:-----:| 
-| <img height="16px" src="https://api.iconify.design/skill-icons:astro.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) |
+| &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
+|:-----:|:--------:|:-----:| :-----:| 
+| <img height="16px" src="https://api.iconify.design/skill-icons:astro.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) | <img height="16px" src="https://unjs.io/favicon.svg" /> <br /> [UnJS](https://unjs.io/) |
 
 ☁️ tech providers i choose
 

@@ -1,3 +1,6 @@
+<img src="https://cdn.svgporn.com/logos/astro.svg" alt="astro" style="margin: 0 auto; text-align: center;" />
+<h2>Cultivating Astro</h2>
+
 😌 more convenience be known as <img height="16px" src="https://api.iconify.design/skill-icons:javascript.svg">  JavaScript Developer
 
 👨🏻‍🎓 graduated as [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) at 2019 from University of Mercu Buana Yogyakarta

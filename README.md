@@ -46,21 +46,21 @@
  - web application
 
 | &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
-|:-----:|:--------:|:-----:| :-----:| 
+|:-----:|:--------:|:-----:|:-----:| 
 | <img height="16px" src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg" /> <br /> [Nuxt](https://nuxt.com) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com) |<img height="16px" src="https://unjs.io/assets/images/design-kit/unjs-logo-black.svg" /> <br /> [UnJS](https://unjs.io/) | <img height="16px" src="https://api.iconify.design/skill-icons:vuetify-dark.svg" /> <br /> [Vuetify](https://vuetifyjs.com) | 
 
  - api server
 
-| &nbsp;| &nbsp;   |
-|:-----:|:--------:|
-| <img height="16px" src="https://nitro.unjs.io/icon.svg" /> <br /> [Nitro](https://nitro.unjs.io) | <img height="16px" src="https://unjs.io/assets/images/design-kit/unjs-logo-black.svg" /> <br /> [UnJS](https://unjs.io/) |
+| &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
+|:-----:|:--------:|:-----:|:-----:| 
+| <img height="16px" src="https://cdn.svgporn.com/logos/nginx.svg" /> <br /> [NGINX](https://nginx.org) | <img height="16px" src="https://nitro.unjs.io/icon.svg" /> <br /> [Nitro](https://nitro.unjs.io) | <img height="16px" src="https://unjs.io/assets/images/design-kit/unjs-logo-black.svg" /> <br /> [UnJS](https://unjs.io/) | <img width="16px" height="16px" src="https://cdn.svgporn.com/logos/sqlite.svg" /> <br /> [SQLite](https://www.sqlite.org/) |
 
 ☁️ tech providers i choose
 
 | &nbsp;| &nbsp;   |
 |:-----:|:--------:|
-| <img height="16px" src="https://api.iconify.design/devicon:cloudflare.svg" /> <br /> [Cloudflare](https://www.cloudflare.com) | <img height="16px" src="https://cdn.svgporn.com/logos/storyblok-icon.svg" /> <br /> [Storyblok](https://www.storyblok.com) |
+| <img height="16px" src="https://api.iconify.design/devicon:cloudflare.svg" /> <br /> [Cloudflare](https://www.cloudflare.com) | <img height="16px" src="https://web-cms.biznetgio.com/uploads/favicon_ad5bda3529_343683d318_ffddb3bf95.svg" /> <br /> [Biznet Gio](https://www.biznetgio.com/)
 
-💼 currently working at [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) / [www.indomascot.com](https://www.indomascot.com?utm_source=github) as owner
+💼 currently working at [**INDOMASCOT**](https://www.indomascot.com/?utm_source=github) / [www.indomascot.com](https://www.indomascot.com?utm_source=github) as the owner
 
-📩 welcome to reach me via <img height="16px" src="https://api.iconify.design/material-symbols:stacked-email.svg" /> [email](mailto:jamal@indomascot.com) or <img height="16px" src="https://api.iconify.design/fa6-brands:square-x-twitter.svg" /> [x](https://twitter.com/ropangkrimbat)
+📩 welcome to reach me via <img height="16px" src="https://api.iconify.design/material-symbols:stacked-email.svg" /> [email](mailto:jamal@indomascot.com) or <img height="16px" src="https://api.iconify.design/fa6-brands:square-x-twitter.svg" /> [x](https://x.com/ropangkrimbat)

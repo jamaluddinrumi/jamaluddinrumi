@@ -43,6 +43,12 @@
 |:-----:|:--------:|:-----:| :-----:| 
 | <img height="16px" src="https://api.iconify.design/skill-icons:astro.svg" /> <br /> [Astro](https://astro.build) | <img height="16px" src="https://api.iconify.design/devicon:tailwindcss.svg" /> <br /> [Tailwind](https://tailwindcss.com/) | <img height="16px" src="https://unjs.io/assets/images/design-kit/unjs-logo-black.svg" /> <br /> [UnJS](https://unjs.io/) | <img height="16px" src="https://cdn.svgporn.com/logos/daisyUI.svg" /> <br /> [Daisy](https://daisyui.com/) | 
 
+- content management system
+
+| &nbsp;|
+|:-----:|
+| <img height="16px" src="https://directus.io/favicon.svg" /> <br /> [directus](https://directus.io/) |
+
  - web application
 
 | &nbsp;| &nbsp;   | &nbsp;| &nbsp;|

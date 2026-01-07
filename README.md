@@ -1,4 +1,4 @@
-😌 more convenience be known as <img height="16px" src="https://api.iconify.design/skill-icons:javascript.svg">  JavaScript Developer
+😌 more convenience known as a <img height="16px" src="https://api.iconify.design/skill-icons:typescript.svg">  TypeScript Developer
 
 👨🏻‍🎓 graduated as [BSc in Information Systems](https://pddikti.kemdiktisaintek.go.id/detail-mahasiswa/Es2iu1IPLE4pYWtVZxvnTW-WexBplSO8tVTyC0-7GAZ8EKk0InBKWKV8XrnkYmAfK5eYDg==) at 2019 from University of Mercu Buana Yogyakarta
 

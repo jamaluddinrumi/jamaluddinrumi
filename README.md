@@ -44,7 +44,7 @@
 
 👨🏻‍💻 preferred tech stack
 
- - Static Website
+ Static Website
 
 | &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
 |:-----:|:--------:|:-----:| :-----:| 
@@ -52,7 +52,7 @@
 
 <br>
 
-- Content Management System
+Content Management System
 
 | &nbsp;|
 |:-----:|
@@ -60,7 +60,7 @@
 
 <br>
 
- - Web Application
+ Web Application
 
 | &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
 |:-----:|:--------:|:-----:|:-----:| 
@@ -68,7 +68,7 @@
 
 <br>
 
- - API
+API
 
 | &nbsp;| &nbsp;   | &nbsp;|
 |:-----:|:--------:|:-----:|

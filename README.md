@@ -31,7 +31,7 @@
 
 ✍️ some projects i've submitted for my certification final submissions
 
-| Repo | Preview |
+| Repo | URL Preview |
 |--|--|
 | [submission](https://github.com/jamaluddinrumi/jamaluddinrumi/submission) | [Katalog Restoran (PWA)](https://katalog-restoran-pwa.jamal.indomascot.com/) |
 | [irecipe](https://github.com/jamaluddinrumi/jamaluddinrumi/irecipe) | [iRecipe (PWA)](https://irecipe.jamal.indomascot.com/) |

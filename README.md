@@ -1,9 +1,6 @@
-<img src="https://cdn.svgporn.com/logos/astro.svg" alt="astro" style="margin: 0 auto; text-align: center;" />
-<h2>🚀 Digging Astro</h2>
-
 😌 more convenience be known as <img height="16px" src="https://api.iconify.design/skill-icons:javascript.svg">  JavaScript Developer
 
-👨🏻‍🎓 graduated as [BSc in Information Systems](https://pddikti.kemdikbud.go.id/data_mahasiswa/QTEyRDFBODctRTA3RC00MDJGLUI3M0YtNzUxNTEzQTREQkY3) at 2019 from University of Mercu Buana Yogyakarta
+👨🏻‍🎓 graduated as [BSc in Information Systems](https://pddikti.kemdiktisaintek.go.id/detail-mahasiswa/Es2iu1IPLE4pYWtVZxvnTW-WexBplSO8tVTyC0-7GAZ8EKk0InBKWKV8XrnkYmAfK5eYDg==) at 2019 from University of Mercu Buana Yogyakarta
 
 🧑‍💻 have been completed some IT certifications
 - [Front-End Web Learning Path](https://www.dicoding.com/learningpaths/22) 🎓 *passed all the steps from start to the end*
@@ -19,12 +16,12 @@
   - 📄 [Start Programming with Python](https://www.dicoding.com/certificates/GRX5QWQJVZ0M)
   - 📄 [Learn Machine Learning for Beginners](https://www.dicoding.com/certificates/6RPNVJKE4Z2M) 
 
-❤️ building business apps which has following criterias
+❤️ building business apps with below criterias
 - 👨‍👩‍👧 useful
 - ⚡️ performant
 - 📱 easy to use
 
-✍️ projects i've submitted for my certification final submissions
+✍️ some projects i've submitted for my certification final submissions
 
 | Preview | Repo |
 |--|--|
@@ -35,7 +32,7 @@
 | [iChampions (PWA)](https://ichampions.jamal.indomascot.com/) | [ichampions](https://github.com/jamaluddinrumi/jamaluddinrumi/ichampions) |
 | iNutritions (SPA) | [inutritions](https://github.com/jamaluddinrumi/jamaluddinrumi/inutritions) |
 
-👨🏻‍💻 tech stack i choose
+👨🏻‍💻 preferred tech stack
 
  - static website
 
@@ -57,11 +54,11 @@
 
  - api server
 
-| &nbsp;| &nbsp;   | &nbsp;| &nbsp;|
-|:-----:|:--------:|:-----:|:-----:| 
-| <img height="16px" src="https://cdn.svgporn.com/logos/nginx.svg" /> <br /> [NGINX](https://nginx.org) | <img height="16px" src="https://nitro.unjs.io/icon.svg" /> <br /> [Nitro](https://nitro.unjs.io) | <img height="16px" src="https://unjs.io/assets/images/design-kit/unjs-logo-black.svg" /> <br /> [UnJS](https://unjs.io/) | <img width="16px" height="16px" src="https://cdn.svgporn.com/logos/sqlite.svg" /> <br /> [SQLite](https://www.sqlite.org/) |
+| &nbsp;| &nbsp;   | &nbsp;|
+|:-----:|:--------:|:-----:|
+| <img height="16px" src="https://nitro.unjs.io/icon.svg" /> <br /> [Nitro](https://nitro.unjs.io) | <img height="16px" src="https://unjs.io/assets/images/design-kit/unjs-logo-black.svg" /> <br /> [UnJS](https://unjs.io/) | <img width="16px" height="16px" src="https://cdn.svgporn.com/logos/sqlite.svg" /> <br /> [SQLite](https://www.sqlite.org/) |
 
-☁️ tech providers i choose
+☁️ preferred tech providers
 
 | &nbsp;| &nbsp;   |
 |:-----:|:--------:|

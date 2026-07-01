@@ -56,7 +56,7 @@ Content Management System
 
 | &nbsp;|
 |:-----:|
-| <img height="16px" src="https://directus.io/favicon.svg" /> <br /> [directus](https://directus.io/) |
+| <img height="16px" src="https://raw.githubusercontent.com/2fasvg/2fasvg.github.io/master/assets/img/logo/directus.io/directus.io.svg" /> <br /> [directus](https://directus.io/) |
 
 <br>
 
